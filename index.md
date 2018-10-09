@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+甜橙小说是一款免费小说阅读器，匯集經典的言情小說、耽美同人、玄幻仙侠、武侠修真，藏书丰厚，并对所有书籍做了精细分类，酷帥的現代都市和唯美的穿越古風，在这里应有尽有。
 
-You can use the [editor on GitHub](https://github.com/LeReader/profile/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+我们无法分手，只好牵手。
+逝者如烟，往事无从追寻
+岁岁长相伴，白头不相离。
+今日欢笑，明日忧伤，世事本无常。
+明知相思无用处，无奈难解相思苦。
+席绢，古灵，金萱，典心，绿光，古代、现代、穿越，凄美、蜜宠，浪漫台湾言情小说爱情故事。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+内容丰富，涵盖玄幻奇幻、武侠仙侠、台湾言情、都市言情、灵异科幻、青春校园、宫廷穿越、竞技游戏、历史军事等，免费小说尽在掌握！
 
-### Markdown
+如有建议、反馈与我们沟通欢迎加群：
+QQ    群：342437975
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LeReader/profile/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+QQ技术支持：2740270782
